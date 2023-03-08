@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    h2 {
+        @apply font-[Nunito] text-[17px] font-extrabold leading-[26px]
+    }
+
+    p {
+        @apply font-[Nunito]
+    }
+}
+
+
+@layer utilities {
+    .section {
+        @apply mx-auto max-w-[1114px]
+    }
+}

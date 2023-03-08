@@ -1,0 +1,112 @@
+{
+    "offers": [
+        {
+            "id": 1,
+            "title": "Marketing Designer",
+            "company": "Whimsical",
+            "new": true,
+            "verified": true,
+            "labels": [
+                "🌏 Worldwide",
+                "💰 $140k - $150k"
+            ],
+            "category": [
+                "Design",
+                "Marketing",
+                "Engineer"
+            ],
+            "pastDays": 6,
+            "background": "#FFF38F"
+        },
+        {
+            "id": 2,
+            "title": "PHP Developer",
+            "company": "Transax",
+            "new": false,
+            "verified": true,
+            "labels": [
+                "🌏 Worldwide",
+                "💰 $140k - $150k"
+            ],
+            "category": [
+                "Engineer",
+                "Developer",
+                "Full Stack"
+            ],
+            "pastDays": 22,
+            "background": "#FFD500"
+        },
+        {
+            "id": 3,
+            "title": "Freelance Writer 🎈",
+            "company": "IAPWE",
+            "new": false,
+            "verified": true,
+            "labels": [
+                "🌏 Worldwide",
+                "💰 $140k - $150k"
+            ],
+            "category": [
+                "Engineer",
+                "Developer",
+                "Full Stack"
+            ],
+            "pastDays": 27,
+            "background": "#fff"
+        },
+        {
+            "id": 4,
+            "title": "Freelance Copywriter",
+            "company": "Doughnut",
+            "new": true,
+            "verified": true,
+            "labels": [
+                "🌏 Worldwide",
+                "💰 $140k - $150k"
+            ],
+            "category": [
+                "Design",
+                "Marketing",
+                "Engineer"
+            ],
+            "pastDays": 6,
+            "background": "#FFF38F"
+        },
+        {
+            "id": 5,
+            "title": "Freelance Writer 🎈",
+            "company": "IAPWE",
+            "new": false,
+            "verified": true,
+            "labels": [
+                "🌏 Worldwide",
+                "💰 $140k - $150k"
+            ],
+            "category": [
+                "Engineer",
+                "Developer",
+                "Full Stack"
+            ],
+            "pastDays": 27,
+            "background": "#fff"
+        },
+        {
+            "id": 6,
+            "title": "Freelance Copywriter",
+            "company": "Doughnut",
+            "new": true,
+            "verified": true,
+            "labels": [
+                "🌏 Worldwide",
+                "💰 $140k - $150k"
+            ],
+            "category": [
+                "Design",
+                "Marketing",
+                "Engineer"
+            ],
+            "pastDays": 6,
+            "background": "#FFF38F"
+        }
+    ]
+}

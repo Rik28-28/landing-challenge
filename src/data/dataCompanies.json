@@ -1,0 +1,44 @@
+{
+    "companies": [
+        {
+            "id": "amazon",
+            "name": "amazon",
+            "url": "/png/companies/amazon.png"
+        },
+        {
+            "id": "angellist",
+            "name": "angellist",
+            "url": "/png/companies/angellist.png"
+        },
+        {
+            "id": "github",
+            "name": "github",
+            "url": "/png/companies/github.png"
+        },
+        {
+            "id": "indeed",
+            "name": "indeed",
+            "url": "/png/companies/indeed.png"
+        },
+        {
+            "id": "shopify",
+            "name": "shopify",
+            "url": "/png/companies/shopify.png"
+        },
+        {
+            "id": "stripe1",
+            "name": "stripe",
+            "url": "/png/companies/stripe.png"
+        },
+        {
+            "id": "stripe",
+            "name": "stripe",
+            "url": "/png/companies/stripe.png"
+        },
+        {
+            "id": "upwork",
+            "name": "upwork",
+            "url": "/png/companies/upwork.png"
+        }
+    ]
+}
